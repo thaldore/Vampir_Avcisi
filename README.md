@@ -9,7 +9,9 @@ In this game, enemies and bosses attack in endless waves. You must defeat them, 
 The game features:
 - Multiple unique **characters** with different starting weapons and abilities.
 - **Wave-based combat** with increasing difficulty.
-- **Weapon upgrades** and skill progression.
+- **Weapon upgrades** and character progression.
+- **Procedural map generation** for infinite variation.
+- **Breakable objects** that can drop **health potions**.
 - A satisfying survival loop with continuous pressure from enemies.
 
 🔗 **[Game Files (Google Drive)](https://drive.google.com/file/d/1x_Ne_OUndnmsfUl_nczh9A3u7ugNiZ6f/view?usp=drive_link)**  
@@ -33,6 +35,8 @@ Oyunun özellikleri:
 - Farklı **başlangıç silahları ve yeteneklere** sahip birden fazla karakter.
 - Artan zorlukla gelen **dalgalar halinde düşmanlar**.
 - **Silah geliştirme** ve karakter ilerleme sistemi.
+- **Sonsuz çeşitlilikte harita oluşturma** (procedural map generation).
+- **Kırılabilir nesnelerden** düşebilen **can potları**.
 - Her geçen saniye daha da zorlaşan bir **hayatta kalma deneyimi**.
 
 🔗 **[Oyun Dosyaları (Google Drive)](https://drive.google.com/file/d/1x_Ne_OUndnmsfUl_nczh9A3u7ugNiZ6f/view?usp=drive_link)**  
