@@ -17,7 +17,7 @@ The game features:
 
 ### 🖼️ Sample Gameplay Screenshot
 
-![Gameplay](https://drive.google.com/uc?export=view&id=17Jz0Bcd9UVGjip8du8dUCafwLDFvfAER)
+![Gameplay](https://drive.google.com/file/d/10Cck9w2cqhQjtAdxgnqkwbGwNRI4PslT/view?usp=drive_link)
 
 ---
 
@@ -40,4 +40,4 @@ Oyunun özellikleri:
 
 ### 🖼️ Oyun İçi Görsel
 
-![Oyun Görseli](https://drive.google.com/uc?export=view&id=17Jz0Bcd9UVGjip8du8dUCafwLDFvfAER)
+![Oyun Görseli](https://drive.google.com/file/d/10Cck9w2cqhQjtAdxgnqkwbGwNRI4PslT/view?usp=drive_link)
