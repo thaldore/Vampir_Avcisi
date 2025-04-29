@@ -21,6 +21,8 @@ The game features:
 
 ---
 
+# Vampire Avcısı
+
 ## 🧛 Açıklama (TR)
 
 **Vampir Avcısı**, *Vampire Survivors* tarzında yapılmış 2D bir aksiyon hayatta kalma oyunudur.  
