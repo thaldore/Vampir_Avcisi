@@ -23,7 +23,7 @@ The game features:
 
 ---
 
-# Vampire Avcısı
+# Vampir Avcısı
 
 ## 🧛 Açıklama (TR)
 
